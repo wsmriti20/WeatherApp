@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Forecast App</string>
+    <string-array name="city_option">
+        <item>Select a city</item>
+        <item>Detroit</item>
+        <item>Seattle</item>
+        <item>Mumbai</item>
+        <item>Paris</item>
+    </string-array>
+</resources>
